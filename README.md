@@ -2,7 +2,7 @@
 - `basic-examples`: Contains simple examples to get started with recursion.
 - `problem-solving`: Contains more complex problems and their recursive solutions.
 
-##content
+## content
 there are two folders `studying` and `Problems` : 
 - `studying`: sharing my joureny of learning , codes and resources.
 - `Problems`: diffrent problems about the recurrion and backtracking ```you wil find the link of the problem inside ``` . 
