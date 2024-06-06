@@ -2,6 +2,12 @@
 - `basic-examples`: Contains simple examples to get started with recursion.
 - `problem-solving`: Contains more complex problems and their recursive solutions.
 
+##content
+there are two folders `studying` and `Problems` : 
+- `studying`: sharing my joureny of learning , codes and resources.
+- `Problems`: diffrent problems about the recurrion and backtracking ```you wil find the link of the problem inside ``` . 
+
+
 Each directory contains:
 - The source code file(s) for the problem.
 - A `README.md` file explaining the problem, the solution approach, and how to run the code , it will be updated.
