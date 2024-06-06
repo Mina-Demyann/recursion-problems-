@@ -1,3 +1,0 @@
-/Users/apple/Documents/GitHub/recursion-problems-/cmake-build-debug/CMakeFiles/recursion_problems_.dir
-/Users/apple/Documents/GitHub/recursion-problems-/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/apple/Documents/GitHub/recursion-problems-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
